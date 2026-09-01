@@ -1,0 +1,83 @@
+[
+  {
+    "Title" : "I 융해된 파라핀",
+    "Classification": "화상",
+    "Keyword" : ["화상"],
+    "Rate": "1",
+    "Effect" : [
+      "- 화상 위력, 화상 횟수, 특수 화상을 부여하는 스킬로 합 승리 시, (남은 코인 수/2)만큼 대상 적에게 화상 위력 부여",
+      "+ 화상 위력, 화상 횟수, 특수 화상을 부여하는 스킬로 합 승리 시, (남은 코인 수/2+1)만큼 대상 적에게 화상 위력 부여",
+      "++ 화상 위력, 화상 횟수, 특수 화상을 부여하는 스킬로 합 승리 시, (남은 코인 수+1)만큼 대상 적에게 화상 위력 부여"
+    ],
+    "Image" : "https://i.namu.wiki/i/Y0R-A8vKWvUAp7wZTtszeWznHC6cRrWpxKtpJYdrCkAv3gR05h2omBwiPQQGCK-2fAqO1jLE4GFU_iPF1id6IDN_z9IcCYMx-oiuAqEWrZZsHjw05MziQjJ02LMy8OjC58K-v3GrqqLiKvOK48Uwrg.webp",
+    "CombinationFormula": []
+  },
+  {
+    "Title": "I 재에서 재로",
+    "Classification": "화상",
+    "Keyword": ["범용"],
+    "Rate": "1",
+    "Effect": [
+      "- 전투 시작 시 모든 적(환상체일 경우, 모든 부위)이 화상에 걸린 경우, 적 전체(환상체일 경우, 모든 부위)에게 화상 위력 2 부여",
+      "+ 전투 시작 시 화상에 걸린 적 전체(환상체일 경우, 모든 부위)에게 화상 위력 2 부여",
+      "++ 전투 시작 시 적 전체(환상체일 경우, 모든 부위)에게 화상 위력 3 부여"
+    ],
+    "Image": "https://i.namu.wiki/i/AIDC5Z6TziGvhmchtPRomjWV5L2geKzdibtdWI0u6U_ZKZBL01whZupxnqO31qcbOYqbTZL0S_JUd5gkkDKG2YZWQshnX2B0nU3y_Uz07YWapnElrFAIU7YOLSL0mrBY_h21hX887frAxF8HXoUUbA.webp",
+    "CombinationFormula": []
+  },
+  {
+    "Title": "II 만년 동안 끓는 솥",
+    "Classification": "화상",
+    "Keyword": ["화상"],
+    "Rate": "2",
+    "Effect": [
+      "화상 위력, 화상 횟수 또는 특수 화상을 부여하는 스킬의 합 위력 +1"
+    ],
+    "Image": "https://i.namu.wiki/i/T4-y8xV5OENXZAlgyATn1DafRlTy65o-dn4FuBPO3LBlWhXmV8snYcM1vuYEC0tobO9V4rkAwT3UL_A7iRnxiw7CthU2hDEXmtqMWy2IxpCfWDViG1XJV2YnLlq4p00O9HiTC1bzLPqhMWU2_U8vLQ.webp",
+    "CombinationFormula": []
+  },
+  {
+    "Title": "III 요리 비법 전서",
+    "Classification": "화상",
+    "Keyword": ["화상 5인"],
+    "Rate": "3",
+    "Effect": [
+      "턴 시작 시, 화상 위력, 화상 횟수 또는 특수 화상을 부여하는 공격 스킬을 보유한 인격이 5인 이상이면, 이번 전투 동안 발동 (E.G.O 스킬 제외. 대기 인원 제외)",
+      "화상 위력, 화상 횟수 또는 특수 화상을 부여하는 스킬의 최종 위력 +1",
+      "화상 위력, 화상 횟수 또는 특수 화상을 부여하는 스킬로 합 승리 시, (남은 코인 수/2+1)만큼 대상 적에게 화상 위력을 부여"
+    ],
+    "Image": "https://i.namu.wiki/i/x8oBnGRTddaz49qXQB6hsmy9IKEbhnpaqrMrmBBY2ajQCcOON88dQy0M5-Aer-SjoA5CbGRx1bbd4byj3YSSb255CR_3r83fmgElD7pB_SoSL3m5RgBtyinLnYote9qvIW6pr4SNXQcXAOce1DMt_w.webp",
+    "CombinationFormula": ["I 융해된 파라핀", "II 만년 동안 끓는 솥"]
+  },
+  {
+    "Title": "III 먼지에서 먼지로",
+    "Classification": "화상",
+    "Keyword": ["범용", "나태 공명"],
+    "Rate": "3",
+    "Effect": [
+      "- 웨이브 첫 턴 시작 시, 모든 적(환상체일 경우, 무작위 부위 하나)에게 화상 위력 5, 화상 횟수 3 부여",
+      "나태 완전 공명을 발동하였다면 전투 시작 시, 모든 적(환상체일 경우, 무작위 부위 하나)에게 화상 위력 3, 화상 횟수 2 부여",
+      "+ 웨이브 첫 턴 시작 시, 모든 적(환상체일 경우, 무작위 부위 하나)에게 화상 위력 6, 화상 횟수 3 부여",
+      "나태 완전 공명을 발동하였다면 전투 시작 시, 모든 적(환상체일 경우, 무작위 부위 하나)에게 화상 위력 4, 화상 횟수 2 부여",
+      "++ 웨이브 첫 턴 시작 시, 모든 적(환상체일 경우, 무작위 부위 하나)에게 화상 위력 8, 화상 횟수 3 부여",
+      "나태 공명을 발동하였다면 전투 시작 시, 모든 적(환상체일 경우, 무작위 부위 하나)에게 화상 위력 4, 화상 횟수 3 부여"
+    ],
+    "Image": "https://i.namu.wiki/i/83wJPhCuTq0HwYlnswsl3HCzShJ5TToK1LQQ9juJEO-RUMaeS2u_U_RMY5y5I6d95sFPoOeoxwmyJWDQSUSdtH9TpFhnoA_Ye6X1qbYpGL0EoYPFspNCFsX3z3Y31i52om7Rm0LWhb4qIaqk5-kelg.webp",
+    "CombinationFormula": []
+  },
+  {
+    "Title": "IV 진혼",
+    "Classification": "화상",
+    "Keyword": ["화상 5인"],
+    "Rate": "4",
+    "Effect": [
+      "턴 시작 시, 화상 위력, 화상 횟수 또는 특수 화상을 부여하는 공격 스킬을 보유한 인격이 5인 이상이면, 이번 전투 동안 발동 (E.G.O 스킬 제외. 대기 인원 제외)",
+      "턴 시작 시, 모든 적(환상체일 경우, 모든 부위)에게 화상 횟수 6을 부여하고 화상 위력 15를 무작위로 나누어 부여. (웨이브 당 최대 1회)",
+      "화상 위력, 화상 횟수 또는 특수 화상을 부여하는 더하기 코인 스킬의 최종 위력 +1, 코인 위력 +1, 화상 위력 부여 값 +1, 화상 횟수 부여 값 +1",
+      "빼기 코인 스킬일 경우, 코인 위력 대신 기본 위력 +(4/코인 수) (최소 1, 소수점 버림)",
+      "화상 위력, 화상 횟수 또는 특수 화상을 부여하는 스킬로 합 승리 시, (남은 코인 수 + 1)만큼 대상 적에게 화상 위력을 부여"
+    ],
+    "Image": "https://i.namu.wiki/i/cAsGw5bYCDqqr6VdMZ-4cLB0XLwV0efiLnSi6W17xsyFFJy8JWjFjbfqk1QfJzX4Ic9o5x72iQfPpcN7qU3y-w-cF3X0Y59KixLxaReT4LBUJlPeR8-VVxSLtVLq3vaQ26YuEgEBAlfn4MCxq-C-JQ.webp",
+    "CombinationFormula": ["I 재에서 재로", "III 먼지에서 먼지로", "III 요리 비법 전서"]
+  }
+]
