@@ -1,5 +1,3 @@
-"use client";
-
 import { EgoGift } from "@/types/EgoGift";
 
 interface EgoGiftDetailProps {
