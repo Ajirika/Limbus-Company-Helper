@@ -2,7 +2,7 @@
 
 import { useState } from "react";
 import { EgoGift } from "@/types/EgoGift";
-import EgoGiftData from "@/data/EgoGift/table.json";
+import EgoGiftData from "@/data/EgoGift.json";
 import EgoGiftFilter from "@/components/EgoGift/EgoGiftFilter";
 import EgoGiftGrid from "@/components/EgoGift/EgoGiftGrid";
 import EgoGiftDetail from "@/components/EgoGift/EgoGiftDetail";
