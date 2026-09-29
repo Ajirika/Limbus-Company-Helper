@@ -1,5 +1,3 @@
-"use client";
-
 interface EgoGiftFilterProps {
   selectedClassification: string;
   selectedKeyword: string;
